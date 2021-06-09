@@ -1,8 +1,8 @@
 # Deutsch
 
-[Website](https://einfachiota.github.io/chrysalis-magazines/magazines/de/)
+[Website](https://iota-magazines.github.io/eiMag-4/magazines/de/)
 
 
 Cover Headlines:
 
-https://hackmd.io/@WZdHn6o0TmiYck3zlENRsw/B1NW6wztO/edit
+> [Collaboration Document](https://hackmd.io/@eimag/r1yKiLR9u/edit)
