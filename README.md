@@ -1,4 +1,4 @@
-# 4th einfachIOTA Magazines - GreenTech
+# 4th einfachIOTA Magazine - GreenTech
 
 The community driven IOTA Magazine!
 
