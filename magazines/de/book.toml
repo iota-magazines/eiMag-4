@@ -1,0 +1,18 @@
+[book]
+authors = [""]
+language = "de"
+multilingual = false
+src = "./"
+title = "4. Magazin - GreenTech "
+
+[output.html]
+theme = "../theme"
+additional-css = ["../theme/custom/open-in.css"]
+default-theme = "ei-iota"
+git-repository-url = "https://github.com/iota-magazines/eimag-4"
+git-repository-icon = "fa-github"
+
+
+[preprocessor.open-on-gh]
+command = "mdbook-open-on-gh"
+renderer = ["html"]
