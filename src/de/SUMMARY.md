@@ -3,6 +3,8 @@
 - [❌ Einleitung](./introduction.md)
 - [❌ Schwerpunkt](./topic/README.md)
     - [❌ ENGIE Lab CRIGEN](./topic/1.md)
+    - [❌ Smart Farming](./topic/2.md)
+    - [❌ ClimateCHECK](./topic/3.md)
 - [❌ einfachIOTA](./einfachIOTA/README.md)
     - [❌ Magazin vs CO2](./einfachIOTA/2-magazin-vs-co2.md)
 - [❌ Was ist ...](./what_is/README.md)
